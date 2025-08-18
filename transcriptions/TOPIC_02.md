@@ -70,6 +70,8 @@ Conversas inteligentes, elaboração de textos criativos, geração de código
 - Tradução
 - Geração de código / preenchimento automático
 
+#### Geração de Texto
+
 Um caso de uso notável da IA generativa são os agentes baseados em texto e a geração de texto, que o Gartner reconhece como tendo um valor comercial de médio a alto e como sendo bastante viável com as ferramentas mais recentes. Vamos explorar mais alguns casos de uso de IA generativa. Assistentes virtuais capazes de responder a perguntas e automatizar sistemas de diálogo. Geração de conteúdo personalizado para redes sociais, narrativas, composição musical, poesia e muito mais. Abaixo, temos um exemplo que mostra o poder da IA generativa. Pedimos ao modelo que escrevesse um texto breve e engraçado, com no máximo 100 palavras, para convencer o público de que a IA generativa é o futuro.
 
 ### Entrada
@@ -81,3 +83,29 @@ Olá! Farei uma apresentação sobra IA generativa no Data + AI Summit. Escreva 
 ### Saída
 
 Entre no futuro om a IA generativa! Não estou falando apenas em carros voadores e mordomos robôs. Essa tecnologia incrível pode compor sinfonias, elaborar piadas espiritusoas e criar tendências de moda de vanguarda. Ela ultrapassa os limites da criatividade humana, invocando mundos inteiros, personagens únicos e trabalhos artisticos impressionantes. Mas não é só isso. A IA generativa também revoluciona as indústrias, descobrindo novos medicamentos e prevendo tendênciasde mercado. Prepare-se para se surpreender. Abrace o futuro, onde a imaginação não tem limites, e a IA generativa se tronará nossa melhor companheira criativa. **O futuro está aqui e é incrível!**
+
+Outros casos de uso notáveis incluem tradução, geração de código, preenchimento automático e muito mais. O segundo caso de uso comum de IA generativa envolve a geração de ativos de áudio, visuais e 3D, revelando possibilidades criativas ilimitadas. Por exemplo, a IA generativa pode ser usada para criar personagens virtuais únicos ou imagens personalizadas com base em instruções textuais. No âmbito do áudio, ela pode compor músicas de vários gêneros ou até mesmo imitar a voz de um cantor. Na geração de vídeo, ela pode recriar cenas difíceis ou que custam caro, ou reconstruir cenas sem necessidade de refilmá-las. Tenho certeza de que você já se deparou com imagens engraçadas ou interessantes e áudios gerados por IA. Além disso, esse caso de uso tem um grande potencial para transformar negócios.
+
+### Geração de imagens
+
+- Gere imagens realistas/artísticas de alta qualidade
+- Gere de assitentes virtuais
+
+### Geração em 3D
+
+- Gere de objetos e personagens
+- Animações
+
+### Síntese de vídeo
+
+- Animação
+- Geração de cena
+
+### Geração de áudio
+
+- Narração
+- Composição musical
+
+Agora, vamos voltar nossa atenção para um tópico que é particularmente relevante para os envolvidos no âmbito do big data e da IA: a geração de dados sintéticos. Essa técnica oferece grandes vantagens, incluindo a capacidade de aumentar o tamanho do dataset, aprimorar a diversidade do dataset e proteger dados reais. Mas isso não é tudo. Os dados sintéticos também nos permitem executar tarefas críticas, como detecção de objetos, acompanhamento de cenários antagônicos e condução de processamento de linguagem natural.
+
+Vamos explorar brevemente os benefícios da geração de dados sintéticos. Aumento do tamanho e da diversidade do dataset; proteção de privacidade para dados reais; simulação de cenários para testes e experimentação; detecção de fraudes e detecção de ataques a redes; aprimoramentos da visão computacional, como em carros autônomos; melhoria do processamento da linguagem natural com conversão de texto em dados sintéticos. Quando se trata de valor comercial, a geração de dados sintéticos oferece um nível moderado de valor. Embora gerar dados sintéticos tabulares e textuais seja viável, ainda existem desafios na geração de dados sintéticos para visão computacional.
