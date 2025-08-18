@@ -63,3 +63,9 @@ Conversas inteligentes, elaboração de textos criativos, geração de código
 - Criação de histórias, poesia, escrita criativa
 - Tradução
 - Geração de código / preenchimento automático
+
+Um caso de uso notável da IA generativa são os agentes baseados em texto e a geração de texto, que o Gartner reconhece como tendo um valor comercial de médio a alto e como sendo bastante viável com as ferramentas mais recentes. Vamos explorar mais alguns casos de uso de IA generativa. Assistentes virtuais capazes de responder a perguntas e automatizar sistemas de diálogo. Geração de conteúdo personalizado para redes sociais, narrativas, composição musical, poesia e muito mais. Abaixo temos um exemplo que mostra o poder da IA generativa. Pedimos ao modelo que escrevesse um texto breve e engreaçado, com no máximo 100 palavras.
+
+```text
+Olá! Farei uma apresentação sobra IA generativa no Data + AI Summit. Escreva um texto curto e engraçado para convencer o público de que a IA generativa é o futuro. Máximo de 100 palavras.
+```

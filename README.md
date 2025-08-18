@@ -2,12 +2,10 @@
 
 ## Topics
 
-- Introduction to Generative AI Fundamentals
+- [Introduction to Generative AI Fundamentals](/transcriptions/TOPIC_01.md)
 
-- Generative AI Basics
+- [Generative AI Basics](/transcriptions/TOPIC_02.md)
 
-- LLMs and Generative AI
+- [LLMs and Generative AI](/transcriptions/TOPIC_03.md)
 
-- Legal and Ethical Considerations
-
-- Summary and Next Steps
+- [Legal and Ethical Considerations](/transcriptions/TOPIC_04.md)
