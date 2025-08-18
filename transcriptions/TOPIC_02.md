@@ -39,7 +39,7 @@ A IA generativa tems como base um tipo específico de modelo de IA conhecido com
 
 ### Poder computacional
 
-- Avanços de em hardware e GPUs
+- Avanços em hardware e GPUs
 - Acesso á computação em cloud
 - Software de código aberto, Hugging Face
 
@@ -49,4 +49,17 @@ A IA generativa tems como base um tipo específico de modelo de IA conhecido com
 - Arquitetura de transformadores
 - Aprendizagem por reforço com feedback humano (RLHF)
 
-Mas por que de repente há essa empolgação em torno da IA, especialmente a IA generativa? Por que você deve prestar atenção nela agora? Embora o conceito de IA generativa já exista há algum tempo e tenha sido aplicado em certo cenários, só recentemente houve um avanço siginificativo. A precisão, eficácia e disponibilidade desses modelos atingiram um ponto crítico, transformando em realidade os casos de uso que antes oníricos. Além do mais, até mesmo os usuários não técnicos agora podem aproveitar facilmente o poder desses modelos. Com o número cada ves maior de modelos de código aberto e personalizáveis, a IA generativa está se tornando mais acessível a todos, abrindo inifitas possibilidades para possíveis casos de uso. Vamos parar por um momento para refletir sobre o que você pode ter encontrado em notícias redes sociais, podecasts e outras fontes em relação aos casos de uso da IA generativa.
+Mas por que de repente há essa empolgação em torno da IA, especialmente a IA generativa? Por que você deve prestar atenção nela agora? Embora o conceito de IA generativa já exista há algum tempo e tenha sido aplicado em certo cenários, só recentemente houve um avanço siginificativo. A precisão, eficácia e disponibilidade desses modelos atingiram um ponto crítico, transformando em realidade os casos de uso que antes oníricos. Além do mais, até mesmo os usuários não técnicos agora podem aproveitar facilmente o poder desses modelos. Com o número cada ves maior de modelos de código aberto e personalizáveis, a IA generativa está se tornando mais acessível a todos, abrindo inifitas possibilidades para possíveis casos de uso. Vamos parar por um momento para refletir sobre o que você pode ter encontrado em notícias redes sociais, podecasts e outras fontes em relação aos casos de uso da IA generativa. Temos certeza de que você pode se lembrar de alguns exemplos interessantes de como a IA generativa está sendo utilizada. Talvez alguns desses que você tem em mente são os que vamos discutir neste e nos próximos slides.
+
+### Casos de uso de IA generativa
+
+Conversas inteligentes, elaboração de textos criativos, geração de código
+
+- Geração de conteúdo
+- Pergutas e respostas
+- Assistentes virtuais
+- Personalização de conteúdo
+- Transferência de estilo de linguagem
+- Criação de histórias, poesia, escrita criativa
+- Tradução
+- Geração de código / preenchimento automático
