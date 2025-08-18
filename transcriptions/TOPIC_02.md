@@ -80,6 +80,4 @@ Olá! Farei uma apresentação sobra IA generativa no Data + AI Summit. Escreva 
 
 ### Saída
 
-```text
 Entre no futuro om a IA generativa! Não estou falando apenas em carros voadores e mordomos robôs. Essa tecnologia incrível pode compor sinfonias, elaborar piadas espiritusoas
-```
